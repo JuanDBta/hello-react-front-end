@@ -1,11 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
- 
-  <img src="src/images/metart.jpg" alt="logo" width="200"  height="auto">
-  <br/>
 
-  <h3><b>MET Art App</b></h3>
+  <h1><b>"Hello world" FRONT END</b></h1>
 
 </div>
 
@@ -15,15 +12,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Video Intro](#video-intro)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run Tests](#runtests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -34,7 +27,7 @@
 
 # 📖 MET Art App <a name="about-project"></a>
 
-**[MET Art App]** This Mobile App connects the user with the Metropolitan Art Museum of New York API and display NINETEENTH CENTURY TOP ARTISTS.  When you click an artists image you can access to all their paintings available in MET with main details like title, year of creation and medium. My Collection is an additional feature that allows you to select your favorite paintings and store it. Built with REACT & REDUX, is my Capstone Project for Module 3. You can check the MET APi in this URL https://metmuseum.github.io/#search.
+**[MET Art App]** Now that we're familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to create a React front-end with a Rails back-end and connect them to display a random message.
 
 ## 🛠 Built With <a name="built-with"></a>
 1- REACT<br>
@@ -49,7 +42,6 @@
     <li><a href="https://github.com/"></a>GitHub</li>
     <li><a href="https://youtube.com/"></a>YouTube</li>
     <li><a href="https://www.microverse.org"></a>Microverse</li>
-    <li><a href="https://www.metmuseum.org/"></a>The MET</li>
   </ul>
 </details>
 
@@ -68,19 +60,6 @@
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Video Intro <a name="video-intro"></a>
-
-[Video Intro](https://www.loom.com/share/68946f697e514b6586c6972875eec606?sid=fd795b60-2916-453e-9615-b9fb5c4a89c8/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-[MET Art App](https://met-app.onrender.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -101,7 +80,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone "https://github.com/JuanDBta/met-art-app.git"
+  git clone "https://github.com/JuanDBta/hello-react-front-end.git"
 ```
 ### Install
 
@@ -118,19 +97,6 @@ To run the project, go to /met-art-app directory and execute the following comma
 ```sh
 npm start
 ```
-
-### Run Tests
-
-To run the test, execute the following command:
-
-```sh
-npm run test
-```
-
-### Deployment
-
-You can deploy this project using:<br>[MET Art App](https://met-app.onrender.com/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,10 +133,6 @@ If you like this project, please give me a like, it doesn't cost you anything an
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Bee in Student Success who is always avalaible to solve issues and Microverse for push us to work hard every day!
-
-The Crypto-Pro template was created by Nelson Sakwa and is used under the CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Changes have been made to the original template.
-
-Original Template: https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
